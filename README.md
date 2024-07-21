@@ -12,6 +12,6 @@ This board consists of the following:
 
 I have brought out all available outputs along the top of the PCB, however, the PS/2 clock and data signals are also on the connector (pins C11 and A12 repectively) as are TxD (A16), RxD (A17), RTS (C16) and CTS (C19).
 
-Use at your own risk as I have not had time yet to fully test the PCB.
+Use at your own risk as I have not had time yet to fully test the PCB. 
 
-
+Also, the battery holder is an SMD part. It's easy enough to attach, I used a heat gun from underneath the pcb.
