@@ -15,3 +15,7 @@ I have brought out all available outputs along the top of the PCB, however, the 
 Use at your own risk as I have not had time yet to fully test the PCB. 
 
 Also, the battery holder is an SMD part. It's easy enough to attach, I used a heat gun from underneath the pcb.
+
+UPDATES
+
+1.3 - Fixed Reset line on SCC2691, updated battery holder.
