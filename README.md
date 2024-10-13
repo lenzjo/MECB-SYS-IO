@@ -19,3 +19,5 @@ Also, the battery holder is an SMD part. It's easy enough to attach, I used a he
 UPDATES
 
 1.3 - Fixed Reset line on SCC2691, updated battery holder.
+
+1.4 - Fixed KYBD clk line.
